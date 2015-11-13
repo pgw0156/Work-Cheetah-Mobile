@@ -3,8 +3,8 @@
 
 
 ## 1.水平居中：
-  行内元素：设置其父元素的text-align为center；
-  块级元素：left & right的margin设成auto；
+###  行内元素：设置其父元素的text-align为center；
+###  块级元素：left & right的margin设成auto；
   
 ## 2.垂直居中：
   light-height方法:
