@@ -47,8 +47,8 @@
       height: 30%;
       margin: auto;
     }
-###  优点：简单
-###  缺点：IE(IE8 beta)中无效，无足够空间时，content 被截断，但是不会有滚动条出现
+###  优点：简单，无需其他特殊标记，CSS代码量少，支持百分比%属性值和min-/max-属性，完美支持图片居中
+###  缺点：低版本IE(IE8以上OK)中无效，必须声明高度，建议设置overflow:auto来防止内容越界溢出
     
 ###  元素float方法：
     #parent {height: 250px;}
